@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c5c77f51-f67a-4ce7-bedf-dbef3df7d090" name="win10" url="http://192.168.0.108">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/公共的" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
